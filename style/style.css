@@ -298,7 +298,7 @@
     position: absolute;
     margin: 104px 0px 0px 20px;
     transition-property:all ;
-    animation-duration: 5s;
+    animation-duration: 3s;
     animation-delay:1s;
     animation-fill-mode: forwards;
     animation-name: img6m;
